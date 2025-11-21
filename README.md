@@ -31,6 +31,13 @@
 </div>
 
 <div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DeineStrainReviewsDev&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophy" />
+  </a>
+</div>
+
+<div align="center">
   <br>
   <a href="https://deinestrainreviews.de">
     <img src="https://img.shields.io/badge/Website-DeineStrainReviews-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
