@@ -5,14 +5,37 @@
 </div>
 
 <div align="center">
-  <br>
   <h3>🛠 Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,jquery,vscode,github,linux,python&perline=10" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,jquery,python,bash,linux,git,vscode&theme=dark" />
+  </a>
+  <br><br>
+</div>
+
+<div align="center">
+  <h3>📊 System Analytics</h3>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DeineStrainReviewsDev&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=e1e4e8&icon_color=3B82F6&count_private=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeineStrainReviewsDev&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=e1e4e8" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeineStrainReviewsDev&theme=transparent&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6" alt="Streak" />
 </div>
 
 <div align="center">
   <br>
-  <h3>📊 Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=DeineStrainReviewsDev&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=white&icon_color=3B82F6" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeineStrainReviewsDev&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=white" height="180" alt="languages" />
+  <a href="https://deinestrainreviews.de">
+    <img src="https://img.shields.io/badge/Website-DeineStrainReviews-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:dev@deinestrainreviews.de">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
 </div>
