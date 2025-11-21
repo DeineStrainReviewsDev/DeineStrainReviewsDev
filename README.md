@@ -39,13 +39,6 @@
 <div align="center">
   <h3>⌚ Coding Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeineStrainReviewsDev&bg_color=0d1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  
-  <br><br>
-
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DeineStrainReviewsDev&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophy" />
-  </a>
 </div>
 
 <div align="center">
